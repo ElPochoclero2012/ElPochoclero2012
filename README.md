@@ -2,7 +2,7 @@
 
 - 👨‍💻 Soy un desarrollador de software full stack, con formación académica y autodidacta, que tiene un gran interés y pasión por el mundo de la tecnología.
 - 👯 Considero tener muy buena capacidad para trabajar en equipo, y para resolver problemas bajo presión, a su vez me gusta compartir con mis compañeros un ambiente laboral sano y en el que nos apoyemos todes!
-- ✨ Actualmente estoy ingresando a la carrera de "**Ingeniería en informática**" y acabo de terminar un Bootcamp **Full Stack en Javascript**.
+- ✨ Actualmente estoy cursando la carrera de "**Ingeniería en informática**" y acabo de terminar un Bootcamp **Full Stack en Javascript**.
 
 ## Tengo conocimiento en:
 
@@ -27,8 +27,6 @@
 <br>
 
 ## 📫 Contacto:
-
-Portfolio: (Coming soon)
 
 Correo: marce.d.a.2002@gmail.com
 
