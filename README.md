@@ -23,9 +23,9 @@
 <img align="left" title="TypeScript" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" title="SASS" alt="sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />  
 
+<br>
 ## 📫 Contacto:
 
 Correo: marce.d.a.2002@gmail.com
 
-Linkedin: [Marcelo Diego Albano](https://www.linkedin.com/in/marcelo-diego-albano-6a453022b/)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo diego albano" width="30px"/>](https://www.linkedin.com/in/marcelo-diego-albano-6a453022b/)
