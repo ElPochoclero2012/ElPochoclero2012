@@ -28,4 +28,4 @@
 Correo: marce.d.a.2002@gmail.com
 
 Linkedin: [Marcelo Diego Albano](https://www.linkedin.com/in/marcelo-diego-albano-6a453022b/)
-<a href="https://www.linkedin.com/in/marcelo-diego-albano-6a453022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo diego albano" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marcelo-diego-albano-6a453022b/" target="blank"><img align="left "src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo diego albano" width="30px"/></a>
